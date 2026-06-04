@@ -167,7 +167,8 @@ Establishing connection... ████████████ ✓ CONNECTED
 
 ---
 ![Snake animation](https://github.com/AdityaKumar1511/AdityaKumar1511/blob/output/github-contribution-grid-snake-dark.svg)
-
+<div align="center">
+  
 ![Visitor Count](https://komarev.com/ghpvc/?username=AdityaKumar1511&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
 *"First, solve the problem. Then, write the code."*
