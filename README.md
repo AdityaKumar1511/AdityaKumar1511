@@ -112,7 +112,7 @@ Mood     :  git commit -m "it works, don't touch it"
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdityaKumar1511&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=FF6E6E&currStreakLabel=A78BFA)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AdityaKumar1511&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=FF6E6E&currStreakLabel=A78BFA)](https://github.com/AdityaKumar1511)
 
 </div>
 
@@ -166,7 +166,7 @@ Establishing connection... ████████████ ✓ CONNECTED
 ```
 
 ---
-
+![Snake animation](https://github.com/AdityaKumar1511/AdityaKumar1511/blob/output/github-contribution-grid-snake-dark.svg)
 <div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=AdityaKumar1511&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
