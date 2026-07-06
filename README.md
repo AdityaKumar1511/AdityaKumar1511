@@ -118,25 +118,6 @@ Mood     :  git commit -m "it works, don't touch it"
 
 ---
 
-## `> sudo apt install fun_facts`
-
-```bash
-Installing fun_facts... ████████████████ 100% ✓
-
-📦 Package contents:
-
-  → I write C++ for DSA but think in JavaScript
-  → My commit history is 60% code, 40% "fix typo"
-  → I've Googled "how to center a div" more than 50 times
-  → Dark mode is not a preference — it's a lifestyle
-  → I once spent 4 hours on a bug. It was a missing semicolon.
-  → My code works but I don't know why. That counts.
-
-Installation complete. Fun successfully installed. 🚀
-```
-
----
-
 ## `> ./connect.sh`
 
 <div align="center">
