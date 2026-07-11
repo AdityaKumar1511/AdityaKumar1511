@@ -50,23 +50,6 @@ Mood     :  git commit -m "it works, don't touch it"
 
 ---
 
-## `> ./current_mission.sh`
-
-```
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   ACTIVE QUESTS                                     │
-│                                                     │
-│   [████████░░]  80%  Mastering DSA in C++           │
-│   [██████░░░░]  60%  Full Stack Development         │
-│   [████░░░░░░]  40%  Building Personal Projects     │
-│   [██░░░░░░░░]  20%  World Domination               │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
----
-
 ## `> ls tech_stack/`
 
 <div align="center">
@@ -85,19 +68,6 @@ Mood     :  git commit -m "it works, don't touch it"
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
-
----
-
-## `> git log --oneline --graph`
-
-```
-*  feat: currently learning advanced DSA patterns
-*  fix: finally understood recursion (took 3 existential crises)
-*  feat: added full stack projects to portfolio
-*  refactor: replaced bad habits with slightly less bad habits
-*  init: started competitive programming journey
-*  feat: first "Hello World" — the legend begins
-```
 
 ---
 
@@ -134,19 +104,6 @@ Establishing connection... ████████████ ✓ CONNECTED
 
 ---
 
-## `> tail -f philosophy.log`
-
-```
-[INFO]  Code is poetry written for machines.
-[INFO]  Every bug fixed is a lesson learned.
-[INFO]  The best time to start was yesterday.
-        The second best time is right now.
-[WARN]  Sleep.exe has stopped responding.
-[INFO]  Shipping anyway.
-[INFO]  —— Aditya, probably at 1:47 AM ——
-```
-
----
 ![Snake animation](https://github.com/AdityaKumar1511/AdityaKumar1511/blob/output/github-contribution-grid-snake-dark.svg)
 <div align="center">
   
