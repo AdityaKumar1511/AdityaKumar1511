@@ -71,6 +71,57 @@ Mood     :  git commit -m "it works, don't touch it"
 
 ---
 
+## `> ls ./projects --featured`
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 [Arbitrage](https://arbitrage-henna.vercel.app)
+**Real-time price tracking & arbitrage detection**
+
+Full-stack price tracker that scrapes and monitors product prices across sources, alerting users to price drops and arbitrage opportunities in real time.
+
+`Next.js` `Supabase` `Firecrawl` `TypeScript`
+
+[`Live Demo`](https://arbitrage-henna.vercel.app) · [`Source`](https://github.com/AdityaKumar1511/YOUR_REPO)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⛓️ NexusForce
+**Blockchain-based escrow with DAO tribunal system**
+
+Decentralized escrow platform with dispute resolution handled via DAO voting, using verifiable randomness for tribunal selection and IPFS for storage.
+
+`Wagmi` `Chainlink VRF` `IPFS` `Firebase`
+
+[`Source`](https://github.com/AdityaKumar1511/YOUR_REPO)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 CipherKit
+**C++17 static library for classical ciphers**
+
+A `ck::` namespace library implementing classical encryption algorithms, distributable via CMake FetchContent, with full test coverage and CI.
+
+`C++17` `CMake` `GoogleTest` `GitHub Actions`
+
+[`Source`](https://github.com/AdityaKumar1511/YOUR_REPO)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## `> cat github_stats.md`
 
 <div align="center">
