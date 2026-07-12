@@ -96,9 +96,12 @@ Mood     :  git commit -m "it works, don't touch it"
 Establishing connection... ████████████ ✓ CONNECTED
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-57a988374/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Adi_2007)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaKumar1511)
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://adityakumar15.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-57a988374/)
+[![Codolio](https://img.shields.io/badge/Codolio-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/adi321)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.kumar00706@gmail.com)
 
 </div>
 
